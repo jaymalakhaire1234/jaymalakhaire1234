@@ -1,13 +1,13 @@
 # Jaymala_khaire
 ![logo](https://github.com/jaymalakhaire1234/Jaymala_khaire/blob/master/devops.png)
 <h1 align="center">Hi 👋, I'm Jaymala Khaire</h1>
-<h3 align="center">A passionate Data engg from India</h3>
+<h3 align="center">A passionate Data engg from India Having 3.5 years of exp </h3>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306618.jpg">
-- 🔭 I’m currently working on [bachacoffee](https://bachacoffee.com/)
+- 🔭 I’m currently working on [LIC Insurance, India](ClaimPredict Hub)
 
-- 🌱 I’m currently learning **Devops Tools**
-
+- 🌱 I’m currently learning **Data Tools**
+- "Strong technical expertise in Pandas, ETL processes, Databricks, AWS, Azure, Git/GitHub, PySpark, SQL, and Python."
 - 📫 How to reach me **jaymalakhaire9766@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
